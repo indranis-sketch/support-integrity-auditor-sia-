@@ -1,0 +1,6 @@
+Ticket ID,Ticket Subject,Ticket Description,Customer Email,Product Purchased,Ticket Priority,Ticket Channel,Resolution Time,Ticket Type
+1,Login Issue,I cannot log into my account even after resetting password.,user1@example.com,Pro Plan,High,email,24,Authentication
+2,Billing question,Where can I find my invoice?,user2@example.com,Basic Plan,Low,chat,2,Billing
+3,Server Down,The production server is returning 500 errors.,admin@enterprise.com,Enterprise,Low,phone,1,Infrastructure
+4,Feature request,Can you add dark mode?,user3@example.com,Pro Plan,Critical,social media,48,Feature
+5,Refund request,I was double charged.,user4@example.com,Basic Plan,Medium,email,12,Billing
